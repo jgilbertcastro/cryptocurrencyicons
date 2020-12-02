@@ -2,46 +2,46 @@
     {
         "pair": "BTC-USD",
         "name": "Bitcoin",
-        "image": "https://github.com/jgilbertcastro/cryptocurrencyicons/blob/master/btc.png"
+        "image": "https://raw.githubusercontent.com/jgilbertcastro/cryptocurrencyicons/master/btc.png"
     },
     {
         "pair": "ETH-USD",
         "name": "Etherum",
-        "image": "https://github.com/jgilbertcastro/cryptocurrencyicons/blob/master/eth.png"
+        "image": "https://raw.githubusercontent.com/jgilbertcastro/cryptocurrencyicons/master/eth.png"
     },
     {
         "pair": "XRP-USD",
         "name": "Ripple",
-        "image": "https://github.com/jgilbertcastro/cryptocurrencyicons/blob/master/xrp.png"
+        "image": "https://raw.githubusercontent.com/jgilbertcastro/cryptocurrencyicons/master/xrp.png"
     },
     {
         "pair": "LTC-USD",
         "name": "Litecoin",
-        "image": "https://github.com/jgilbertcastro/cryptocurrencyicons/blob/master/ltc.png"
+        "image": "https://raw.githubusercontent.com/jgilbertcastro/cryptocurrencyicons/master/ltc.png"
     }, 
     {
         "pair": "BAT-USD",
         "name": "Basic Attention Token",
-        "image": "https://github.com/jgilbertcastro/cryptocurrencyicons/blob/master/bat.png"
+        "image": "https://raw.githubusercontent.com/jgilbertcastro/cryptocurrencyicons/master/bat.png"
     },
     {
         "pair": "LINK-USD",
         "name": "Chainlink",
-        "image": "https://github.com/jgilbertcastro/cryptocurrencyicons/blob/master/link.png"
+        "image": "https://raw.githubusercontent.com/jgilbertcastro/cryptocurrencyicons/master/link.png"
     },
     {
         "pair": "XLM-USD",
         "name": "Stellar",
-        "image": "https://github.com/jgilbertcastro/cryptocurrencyicons/blob/master/xlm.png"
+        "image": "https://raw.githubusercontent.com/jgilbertcastro/cryptocurrencyicons/master/xlm.png"
     },
     {
         "pair": "XTZ-USD",
         "name": "Tezos",
-        "image": "https://github.com/jgilbertcastro/cryptocurrencyicons/blob/master/xtz.png"
+        "image": "https://raw.githubusercontent.com/jgilbertcastro/cryptocurrencyicons/master/xtz.png"
     },
     {
         "pair": "EOS-USD",
         "name": "EOS",
-        "image": "https://github.com/jgilbertcastro/cryptocurrencyicons/blob/master/eos.png"
+        "image": "https://raw.githubusercontent.com/jgilbertcastro/cryptocurrencyicons/master/eos.png"
     }
 ]
